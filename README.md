@@ -1,4 +1,4 @@
-# VBA-challenge
+# VBA
 
 Created a script that loops through all the stocks for a year and outputs the following:
  
